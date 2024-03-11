@@ -4,6 +4,8 @@ For Thesis
 
 Don't forget to `pip install pygame` on the terminal
 
+Base Simulation: SEC A - 2nd Floor
+
 5 Files
 1. main.py - main loop
 2. agent.py - agent characteristics
